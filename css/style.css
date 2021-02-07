@@ -1,0 +1,28 @@
+@import url("components/header.css");
+@import url("components/brands-list.css");
+@import url("components/banner.css");
+@import url("components/newoffers.css");
+
+body {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 15px;
+  color: #EEE;
+  margin: 0px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.screen__ContentWrapperInner-sc-9mfxmi-11 {
+  border: solid 3px #AA823A;
+
+
+
+}
+

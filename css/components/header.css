@@ -1,0 +1,18 @@
+header {
+  display:-webkit-flex;
+  align-items: center;
+  background-color: black;
+  padding-left: 23px;
+  padding-right: 69px;
+  padding-top: 22px;
+  padding-bottom: 9px;
+  border: solid 3px #AA823A;
+}
+
+.logo img {
+  width: 14%;
+  border: solid 1.5px #AA823A;
+  border-radius: 6px;
+  margin-left: 839px;
+
+}

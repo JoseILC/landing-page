@@ -1,0 +1,36 @@
+
+#new-offers {
+padding: 20px 14px 0;
+font-size: 20px;
+font-weight: 700;
+background-color: black;
+}
+
+.offers{
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
+
+#cars-list {
+  margin-top: 0px;
+  padding-bottom: 20px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: black;
+  margin-bottom: 0px;
+}
+
+.cards-design{
+  border: solid 1px #AA823A;
+  margin-top: 20px;
+  border-radius: 6px;
+  margin: 20px 20px;
+}
+
+
